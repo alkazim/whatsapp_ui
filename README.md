@@ -1,6 +1,6 @@
 # whatsapp
 
-A new Flutter project.
+WhatsApp UI with four screens
 
 ## Getting Started
 
